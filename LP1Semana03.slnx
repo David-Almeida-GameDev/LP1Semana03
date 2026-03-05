@@ -1,2 +1,4 @@
 <Solution>
+  <Project Path="ChangeString/ChangeString.csproj" />
+  <Project Path="CyberHack/CyberHack.csproj" />
 </Solution>
